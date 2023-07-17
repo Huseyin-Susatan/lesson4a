@@ -6,3 +6,4 @@ Limomata Tarifi:
 4buz
 5Name
 6tuz
+7bardak
