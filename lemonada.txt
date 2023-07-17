@@ -1,3 +1,7 @@
+Limomata Tarifi:
+
 1seker
 2su
 3limon
+4buz
+5Name
