@@ -5,3 +5,4 @@ Limomata Tarifi:
 3limon
 4buz
 5Name
+6tuz
