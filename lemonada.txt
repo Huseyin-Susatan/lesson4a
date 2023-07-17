@@ -7,3 +7,4 @@ Limomata Tarifi:
 5Name
 6tuz
 7bardak
+8Para
